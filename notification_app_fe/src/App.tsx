@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import { Log } from "./logging_middleware/log";
+import { Log } from "../../logging_middleware/log";
 import "./App.css";
 
 const TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9";
